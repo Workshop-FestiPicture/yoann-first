@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  venue: MyString
+  description: MyString
+  capacity: 1
+  price: 1
+  image: MyString
+  date: 2014-10-23
+
+two:
+  name: MyString
+  venue: MyString
+  description: MyString
+  capacity: 1
+  price: 1
+  image: MyString
+  date: 2014-10-23

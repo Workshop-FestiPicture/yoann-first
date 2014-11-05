@@ -1,4 +1,7 @@
 YoannFirst::Application.routes.draw do
+  resources :shows
+
+
   get "home/index"
 
   root :to => 'home#index'
