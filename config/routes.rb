@@ -1,6 +1,7 @@
 YoannFirst::Application.routes.draw do
   resources :shows
 
+  post 'shows/:id/book' => 'shows#book'
 
   get "home/index"
 
